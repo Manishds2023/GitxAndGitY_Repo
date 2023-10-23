@@ -4,8 +4,11 @@ public class Program1 {
 	public static void main(String[] args) {
 		System.out.println("Hello Thank You Very Much.....");
 		System.out.println("Mandal Aabhari Aahe....");
+<<<<<<< HEAD
 		System.out.println("Ganpati Bappa Morya....");
-		System.out.println("Mangal Murti Morya!!!!!....");
+=======
+		System.out.println("Deva Deva Deva....");
+>>>>>>> ec744eb24097ea70ecb3df93566aaccace6f6454
 
 	}
 
