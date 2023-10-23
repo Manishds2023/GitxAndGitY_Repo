@@ -8,6 +8,7 @@ public class Program1 {
 		System.out.println("Mangal Murti Morya!!!!!....");
 		Program1 p1 =  new Program1();
 		p1.Hello();
+		p1.Welcome();
 	}
 
 
@@ -18,4 +19,9 @@ public void Hello()
 		System.out.println("This message is from new function");
 	}
 
+public void Welcome()
+{
+
+	System.out.println("This message is from new function");
+}
 }
