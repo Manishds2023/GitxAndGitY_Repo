@@ -6,7 +6,16 @@ public class Program1 {
 		System.out.println("Mandal Aabhari Aahe....");
 		System.out.println("Ganpati Bappa Morya....");
 		System.out.println("Mangal Murti Morya!!!!!....");
+		Program1 p1 =  new Program1();
+		p1.Hello();
+	}
 
+
+
+public void Hello()
+	{
+	
+		System.out.println("This message is from new function");
 	}
 
 }
